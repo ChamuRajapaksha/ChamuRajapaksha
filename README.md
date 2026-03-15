@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Chamu%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20(mostly)%20work&descAlignY=58&descSize=18&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Chamu%20&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20(mostly)%20work&descAlignY=58&descSize=18&descColor=94a3b8" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-stack+developer+%F0%9F%9A%80;AI+%2F+ML+enthusiast+%F0%9F%A4%96;Building+side+projects+for+fun+%26+glory;Team+lead+%40+SaveOnix+%F0%9F%92%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-stack+developer+%F0%9F%9A%80;AI+%2F+ML+enthusiast+%F0%9F%A4%96;Building+side+projects+for+fun+%26;Team+lead+%40+SaveOnix+%F0%9F%92%B8" alt="Typing SVG" />
 </a>
 
 <br/>
