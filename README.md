@@ -68,6 +68,7 @@ const chamu = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Frameworks & tools**
@@ -97,14 +98,6 @@ const chamu = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChamuRajapaksha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChamuRajapaksha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
