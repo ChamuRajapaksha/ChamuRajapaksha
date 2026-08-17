@@ -64,14 +64,21 @@ const chamu = {
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ChamuRajapaksha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=ChamuRajapaksha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Chamu's GitHub Stats"
 />
 
 <img
   height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuRajapaksha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
+  alt="Chamu's Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ChamuRajapaksha&theme=tokyonight&hide_border=true"
+  alt="Chamu's GitHub Streak"
 />
 
 </div>
