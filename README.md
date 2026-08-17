@@ -17,20 +17,6 @@
 
 ---
 
-## 🧑‍💻 About me
-
-```ts
-const chamu = {
-  role:       "Software Engineering Student @ University of Westminster London",
-  currentlyBuilding: ["SaveOnix 💸", "FragDesk 🎮"],
-  thinkingAbout:     ["AI agents", "multi-modal LLMs", "Rust performance"],
-  askMeAbout: ["Flutter", "React", "Rust", "Python", "AI/ML pipelines"],
-  funFact:    "I automate things I could do in 5 minutes — it only takes 3 hours ⏱️",
-};
-```
-
----
-
 ## 🛠️ Tech stack
 
 **Languages**
@@ -61,21 +47,7 @@ const chamu = {
 ## 📊 GitHub stats
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ChamuRajapaksha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-  alt="GitHub Trophies"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=ChamuRajapaksha&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-
-<br/><br/>
+<br>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=ChamuRajapaksha&theme=tokyonight&hide_border=true"
