@@ -62,16 +62,23 @@ const chamu = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChamuRajapaksha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuRajapaksha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ChamuRajapaksha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Chamu's GitHub Stats"
+/>
 
-<br/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuRajapaksha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Chamu's Top Languages"
+/>
 
+<br/><br/>
 
-</div>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ChamuRajapaksha&theme=tokyonight&hide_border=true"
+  alt="Chamu's GitHub Streak"
+/>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </div>
